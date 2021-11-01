@@ -1,0 +1,30 @@
+
+okotlin:S103´"KSplit this 221 characters long line (which is greater than 200 authorized).(¢‘Àøÿÿÿÿ8àßˆÚ˜/
+jkotlin:S103·"KSplit this 215 characters long line (which is greater than 200 authorized).(ÑŸŞß8áßˆÚ˜/
+7kotlin:S125¡"Remove this commented out code.(¹íºë
+<kotlin:S125Ë"Remove this commented out code.(Ù„¶Óşÿÿÿÿ
+ekotlin:S1192j"HDefine a constant instead of duplicating this literal "m2m:cin" 8 times.(î–§¤øÿÿÿÿ
+ƒkotlin:S1192§"eDefine a constant instead of duplicating this literal "application/vnd.onem2mres+json; ty=3" 4 times.(‡³¢ïıÿÿÿÿ
+~kotlin:S1192"eDefine a constant instead of duplicating this literal "application/vnd.onem2mres+json; ty=4" 3 times.(«µ ú
+bkotlin:S1192„"IDefine a constant instead of duplicating this literal "m2m:uril" 9 times.(¤´ÚÜ
+akotlin:S1192õ"HDefine a constant instead of duplicating this literal "m2m:dbg" 4 times.(ƒ±ö
+tkotlin:S1192±"VDefine a constant instead of duplicating this literal "application/xml;ty=23" 3 times.(ÚàÓÿÿÿÿÿ
+ikotlin:S1192‚"KDefine a constant instead of duplicating this literal "Not found" 11 times.(©Í‘¹ùÿÿÿÿ
+gkotlin:S1192Å"IDefine a constant instead of duplicating this literal "X-M2M-RI" 3 times.(‚€¾ûûÿÿÿÿ
+ekotlin:S1192b"HDefine a constant instead of duplicating this literal "m2m:sgn" 4 times.(Ÿî±Ëùÿÿÿÿ
+Pkotlin:S1135°"2Complete the task associated to this TODO comment.(Ã´şşÿÿÿÿ
+akotlin:S134f"CRefactor this code to not nest more than 3 control flow statements.(»¾“»8…àˆÚ˜/
+Kkotlin:S1066l".Merge this "if" statement with the nested one.(§ùå¼ÿÿÿÿÿ
+jkotlin:S3776"RRefactor this method to reduce its Cognitive Complexity from 49 to the 40 allowed.(¢¡àÄ
+gkotlin:S134Œ"CRefactor this code to not nest more than 3 control flow statements.(¡Ûˆıÿÿÿÿ8•àˆÚ˜/
+gkotlin:S134¹"CRefactor this code to not nest more than 3 control flow statements.(î–§¤øÿÿÿÿ8™àˆÚ˜/
+jkotlin:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 46 to the 40 allowed.(¼‚ü
+bkotlin:S134ß"CRefactor this code to not nest more than 3 control flow statements.(¬Êìû8¡àˆÚ˜/
+bkotlin:S134ê"CRefactor this code to not nest more than 3 control flow statements.(¬Êìû8¢àˆÚ˜/
+bkotlin:S134õ"CRefactor this code to not nest more than 3 control flow statements.(ƒ±ö8£àˆÚ˜/
+Gkotlin:S1066õ".Merge this "if" statement with the nested one.(ƒ±ö
+bkotlin:S134ÿ"CRefactor this code to not nest more than 3 control flow statements.(ƒ±ö8£àˆÚ˜/
+Gkotlin:S1066ÿ".Merge this "if" statement with the nested one.(ƒ±ö
+ikotlin:S117À"QRename this parameter to match the regular expression "^`?[_a-z][a-zA-Z0-9]*`?$".(ÀÀƒ¤
+Kkotlin:S1481ú"-Remove this unused "response" local variable.(éÉæóûÿÿÿÿ
+gkotlin:S134˜"CRefactor this code to not nest more than 3 control flow statements.(—ñ«Àşÿÿÿÿ8±àˆÚ˜/
